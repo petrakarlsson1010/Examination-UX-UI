@@ -23,6 +23,8 @@ Sekundär: #95A08E (mörkgrön)
 Text: #000000 (svart)
 
 ## Länkar
+Sökruta ikon - https://pixabay.com/sv/vectors/seo-search-engine-optimization-1970475/
+Sociala medier ikoner - https://pixabay.com/sv/vectors/sociala-medier-marknadsf%C3%B6ring-5995266/
 
 ## Figma-länk
 https://www.figma.com/design/IK7MEaKORI9xxYnyLaeFW6/LogoIpsum?node-id=0-1&m=dev&t=2luFB2UsZAeZ6oR1-1
